@@ -17,7 +17,7 @@ Este é um projeto de enquetes desenvolvido durante a NLW Expert da @Rocketseat,
 1. Clone o repositório do GitHub:
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Vitinho163/NLW-Expert-Polls.git
 ```
 
 2. Instale as dependências:
